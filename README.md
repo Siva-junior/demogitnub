@@ -16,7 +16,7 @@ Bachelor Of Commerce (B.COM) Student!..Now I am Developer💻
 
 ###### Frame-Work:
 <img width="48" height="48" src="https://img.icons8.com/color/48/spring-logo.png" alt="spring-logo"/>
-<img width="48" height="48" src="https://logowik.com/content/uploads/images/hibernate6102.logowik.com.webp"/>
+<img width="48" height="48" src="https://iconspng.com/_next/image?url=https%3A%2F%2Ficonspng.com%2Fimages%2Fhibernate-logo.jpg&w=640&q=75"/>
 
 ###### DataBase:
 <img height="80" width="80" src="https://appbuilderforx.com/static/images/logos/databases/mysql.jpg"/>
