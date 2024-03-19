@@ -18,6 +18,6 @@ Bachelor Of Commerce (B.COM) Student!..Now I am Developer💻
 <img height="50" width="50" src="https://appbuilderforx.com/static/images/logos/databases/mysql.jpg"/>
 
 ## IDE/Tools
-<img height="80" width="100" src="https://logowik.com/content/uploads/images/eclipse5466.jpg"/><img width="100" height="100" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img height="80" width="100" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/><img width="100" height="100" src="https://img.icons8.com/plasticine/100/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 
