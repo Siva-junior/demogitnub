@@ -8,7 +8,7 @@
 Bachelor Of Commerce (B.COM) Student!..Now I am Developer💻
 
 
-<img  align="right" width="370" hight="290" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif"/>
+<img  align="right" width="370" hight="290" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 
 -  🌱 I'm completed the Core_Java and Advance_Java
 -   🏢 I'm looking for job
