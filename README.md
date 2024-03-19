@@ -1,4 +1,4 @@
-<img  align="right" width="370" hight="290" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"/> 
+<img  align="right" width="350" hight="250" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif"/> 
 
 ### HI 👋 It's me Siva..
 
