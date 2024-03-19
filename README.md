@@ -1,4 +1,4 @@
-## HI 👋 It's me Siva../ ### My fullname is  R.V.Sivaraman.
+## HI 👋 It's me Siva.. ### My fullname is  R.V.Sivaraman.
 
 
 Bachelor Of Commerce (B.COM) Student!..Now I am Developer💻
